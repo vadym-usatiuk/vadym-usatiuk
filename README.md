@@ -19,14 +19,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=vadym-usatiuk&show_icons=true&hide=stars,prs,issues,contribs&theme=transparent" alt="Vadym Usatiuk GitHub stats" width="512px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadym-usatiuk&layout=compact" alt="Top Langs" width="300px">
 </div>
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vadym-usatiuk/vadym-usatiuk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vadym-usatiuk/vadym-usatiuk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vadym-usatiuk/vadym-usatiuk/output/github-contribution-grid-snake.svg">
-  </picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+</br>
+ 
+  ![Snake animation](https://github.com/vadym-usatiuk/vadym-usatiuk/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
