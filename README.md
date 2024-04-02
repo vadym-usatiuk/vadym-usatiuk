@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **vadym-usatiuk/vadym-usatiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vadym-usatiuk&show_icons=true&hide=stars,prs,issues,contribs&theme=transparent" alt="Vadym Usatiuk GitHub stats" width="512px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadym-usatiuk&layout=compact" alt="Top Langs" width="300px">
+</div>
