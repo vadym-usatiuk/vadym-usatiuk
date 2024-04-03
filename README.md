@@ -20,6 +20,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadym-usatiuk&layout=compact" alt="Top Langs" width="300px">
 </div>
 
-#### activity
-![github-contribution-grid-snake](https://raw.githubusercontent.com/vadym-usatiuk/vadym-usatiuk/main/img/snake.svg#gh-light-mode-only)
-![github-contribution-grid-snake](https://raw.githubusercontent.com/vadym-usatiuk/vadym-usatiuk/main/img/snake_dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vadym-usatiuk/vadym-usatiuk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vadym-usatiuk/vadym-usatiuk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vadym-usatiuk/vadym-usatiuk/output/github-contribution-grid-snake.svg">
+</picture>
